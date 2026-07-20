@@ -2,7 +2,7 @@
 
 Clasificación de noticias AG News en 4 categorías con un Transformer Encoder pequeño, comparando cuatro funciones de activación (ReLU, GELU, SiLU, Tanh) en el bloque feed-forward bajo condiciones experimentales controladas.
 
-Proyecto final — Introducción a Deep Learning, [Programa de Doctorado], [Universidad].
+Proyecto final — Introducción a Deep Learning, Doctorado en Ingeniería Estadística, Universidad Nacional de Ingeniería - Perú.
 
 ## Pregunta de investigación
 
@@ -122,8 +122,6 @@ Las semillas se fijan sobre `random`, `numpy`, `torch` y `torch.cuda`. La reprod
 
 ```
 ├── notebook.ipynb          # Implementación completa
-├── paper.tex               # Artículo técnico (IEEEtran)
-├── figures/
 │   ├── train_loss.png
 │   ├── validation_loss.png
 │   ├── validation_acc.png
@@ -140,6 +138,5 @@ Las semillas se fijan sobre `random`, `numpy`, `torch` y `torch.cuda`. La reprod
 
 ## Autor
 
-[Germán Arturo Marcillo Hernández] — [gerhardez@gmail.com]
+Germán Arturo Marcillo Hernández — gerhardez@gmail.com
 
-Presentación en video: [enlace de YouTube]
