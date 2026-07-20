@@ -140,6 +140,6 @@ Las semillas se fijan sobre `random`, `numpy`, `torch` y `torch.cuda`. La reprod
 
 ## Autor
 
-[Nombre] — [correo]
+[Germán Arturo Marcillo Hernández] — [gerhardez@gmail.com]
 
 Presentación en video: [enlace de YouTube]
