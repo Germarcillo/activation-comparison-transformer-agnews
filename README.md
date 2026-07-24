@@ -1,6 +1,5 @@
-# Comparación empírica de funciones de activación en un Transformer pequeño
-
-Clasificación de noticias AG News en 4 categorías con un Transformer Encoder pequeño, comparando cuatro funciones de activación (ReLU, GELU, SiLU, Tanh) en el bloque feed-forward bajo condiciones experimentales controladas.
+# Comparación empírica de funciones de activación en un Transformer pequeño y un baseline MLP
+Clasificación de noticias AG News en 4 categorías con un Transformer Encoder pequeño, comparando cuatro funciones de activación (ReLU, GELU, SiLU, Tanh) en el bloque feed-forward bajo condiciones experimentales controladas y un baseline MLP que clasifica textos usando el promedio de los embeddings de las palabras.
 
 Proyecto final — Introducción a Deep Learning, Doctorado en Ingeniería Estadística, Universidad Nacional de Ingeniería - Perú.
 
@@ -136,7 +135,7 @@ Las semillas se fijan sobre `random`, `numpy`, `torch` y `torch.cuda`. La reprod
 - Zhang, Zhao & LeCun (2015). *Character-level convolutional networks for text classification.* NeurIPS.
 - Joulin et al. (2017). *Bag of tricks for efficient text classification.* EACL.
 
-## Autor
+## Autor: Germán Arturo Marcillo Hernández
 
 Germán Arturo Marcillo Hernández — gerhardez@gmail.com
 
