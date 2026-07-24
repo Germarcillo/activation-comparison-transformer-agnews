@@ -135,7 +135,7 @@ Las semillas se fijan sobre `random`, `numpy`, `torch` y `torch.cuda`. La reprod
 - Zhang, Zhao & LeCun (2015). *Character-level convolutional networks for text classification.* NeurIPS.
 - Joulin et al. (2017). *Bag of tricks for efficient text classification.* EACL.
 
-## Autor: Germán Arturo Marcillo Hernández
+## Autor: 
 
 Germán Arturo Marcillo Hernández — gerhardez@gmail.com
 
